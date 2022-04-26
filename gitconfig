@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = daylhertrodriguez@gmail.com
+	name = Fabian Rodriguez
